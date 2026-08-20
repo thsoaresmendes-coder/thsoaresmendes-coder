@@ -25,5 +25,4 @@ Foco Prático: Automação de processos comerciais e desenvolvimento de interfac
 
 ✉️ (https://www.linkedin.com/in/francisco-thiago-mendes-soares-4307a33a7/)-->
 
-  <img align="right" alt="Coding" width="400" src="add your link 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?Thiago Mendes=anuraghazra)](https://github.com/stats-organization/github-stats-extended)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Thiago)](https://github.com/stats-organization/github-stats-extended)
