@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 Olá! 👋 Sou o Thiago Mendes
 Sou um entusiasta de tecnologia de Duque de Caxias, RJ, com uma paixão por criar soluções práticas e automatizadas. Minha trajetória profissional me deu uma base sólida em resolução de problemas e supervisão de operações, habilidades que agora aplico no desenvolvimento de software e no estudo de sistemas de informação.
 
