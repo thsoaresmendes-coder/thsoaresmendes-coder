@@ -27,4 +27,4 @@ Foco Prático: Automação de processos comerciais e desenvolvimento de interfac
 
   <img align="right" alt="Coding" width="400" src="add your link 
   here">
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?Thiago Mendes)](https://github.com/stats-organization/github-stats-extended)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?ThiagoMendes)](https://github.com/stats-organization/github-stats-extended)
