@@ -27,3 +27,5 @@ Foco Prático: Automação de processos comerciais e desenvolvimento de interfac
 
   <img align="right" alt="Coding" width="400" src="add your link 
   here">
+- https://github-readme-stats.vercel.app/api?username=octocat&theme=radical
++ https://github-stats-extended.vercel.app/api?username=octocat&theme=radical
