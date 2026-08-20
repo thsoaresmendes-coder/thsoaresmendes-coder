@@ -24,3 +24,6 @@ Foco Prático: Automação de processos comerciais e desenvolvimento de interfac
 📍 Duque de Caxias, Rio de Janeiro
 
 ✉️ (https://www.linkedin.com/in/francisco-thiago-mendes-soares-4307a33a7/)-->
+
+  <img align="right" alt="Coding" width="400" src="add your link 
+  here">
