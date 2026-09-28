@@ -34,3 +34,4 @@ Foco Prático: Automação de processos comerciais e desenvolvimento de interfac
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
 </p>
+097e8b889b1fd9b719d511ecb52d8700a93f1baf
